@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>PAGINA DE AMINE</title>
+ <title>Descubre Casablanca - Página de Amine</title>
 </head>
 <body>
 
