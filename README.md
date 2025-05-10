@@ -9,6 +9,8 @@
 <img src='https://sl.bing.net/1VkNUQznqu' alt='casa' width='300' height='300'>
 <img src='https://sl.bing.net/bfkRuQHYmDk' alt='casa' width='300 ' height='300 '>
 <img src='https://sl.bing.net/ihNUk2u5AMS' alt='casa' width='300' height='300'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Casablanca_City_Skyline.jpg/800px-Casablanca_City_Skyline.jpg" alt="Casablanca Skyline" width="300" height="200">
+
 
 <p style='color:green;'>3)algunos barrios mas famosos en Casablanca que puede visitar:</p>
 <ol start='1'>
