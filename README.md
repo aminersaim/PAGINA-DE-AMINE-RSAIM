@@ -7,8 +7,8 @@
 <a href='https://youtu.be/jzdY46nM_2Q?si=Tempi7Fv87YLnjZo'>clik para ver el video</a>
 <p style='color:green;'>3)unos fotos para casablanca:</p>
 <img src='https://sl.bing.net/1VkNUQznqu' alt='casa' width='300' height='300'>
-<img src='C:\Users\amine\Downloads\casablanca.jpg ' alt='casa' width='300 ' height='300 '>
-<img src='C:\Users\amine\Downloads\casa city 2.jpeg' alt='casa' width='300' height='300'>
+<img src='https://sl.bing.net/bfkRuQHYmDk' alt='casa' width='300 ' height='300 '>
+<img src='https://sl.bing.net/ihNUk2u5AMS' alt='casa' width='300' height='300'>
 
 <p style='color:green;'>3)algunos barrios mas famosos en Casablanca que puede visitar:</p>
 <ol start='1'>
