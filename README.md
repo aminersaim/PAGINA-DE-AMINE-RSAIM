@@ -24,24 +24,24 @@ nombre=prompt('escribe tu nombre ',' ');
 alert('bienvenido en la pagina de amine');
 </script>
 <p style='color:green;'>4)esta tabla te define cada barrio como es :</p>
-<table border='10px' cellpadding='3' cellspacing='10rh width='200' height='100'>
+ <table border='10px' cellpadding='3' cellspacing='10' width='200' height='100'>
    <tr>
      <th>el barrio</th>
-	 <th>su aspecto</th>
+     <th>su aspecto</th>
    </tr> 
    <tr>
       <td>MAARIF</td>
-	  <td>es un barrio muy moderno y limpio</td>
+     <td>es un barrio muy moderno y limpio</td>
    </tr>
    <tr>
       <td>SIDI MOUMEN</td>
-	  <td>es un barrio tradicional y un poco ruidoso</td>
-	</tr>
-	<tr>
-	   <td>SOUK L9RE3A</td>
-	   <td>es el grande rastro de marruecos donde se vende te todo(ropa,mobiles,animales...)
-	<tr>   
-</table>	
+      <td>es un barrio tradicional y un poco ruidoso</td>
+   </tr>
+   <tr>
+      <td>SOUK L9RE3A</td>
+      <td>es el grande rastro de marruecos donde se vende te todo(ropa,mobiles,animales...)
+   <tr>   
+ </table>	
 <p style='color:green;'>5) Cual es el barrio que te gustaria visitarla?</p>
 <select>
 <option value='Elige'>Elige</option>	
