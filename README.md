@@ -35,7 +35,7 @@ alert('bienvenido en la pagina de amine');
      <th>su aspecto</th>
    </tr> 
    <tr>
-      <td>MAARIF</td>
+     <td>MAARIF</td>
      <td>es un barrio muy moderno y limpio</td>
    </tr>
    <tr>
