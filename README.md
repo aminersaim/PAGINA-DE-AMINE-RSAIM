@@ -6,9 +6,6 @@
 <p style='color:green;'>2)te dejo aqui un enlace 'youtube' para ver la cuidad:</p>
 <a href='https://youtu.be/jzdY46nM_2Q?si=Tempi7Fv87YLnjZo'>clik para ver el video</a>
 <p style='color:green;'>3)unos fotos para casablanca:</p>
-<img src='https://sl.bing.net/1VkNUQznqu' alt='casa' width='300' height='300'>
-<img src='https://sl.bing.net/bfkRuQHYmDk' alt='casa' width='300 ' height='300 '>
-<img src='https://sl.bing.net/ihNUk2u5AMS' alt='casa' width='300' height='300'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Casablanca_City_Skyline.jpg/800px-Casablanca_City_Skyline.jpg" alt="Casablanca Skyline" width="300" height="200">
 
 
