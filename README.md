@@ -26,7 +26,7 @@ alert('bienvenido en la pagina de amine');
 </script>
 <p style='color:green;'>4)esta tabla te define cada barrio como es :</p>
 
-<table border='10px' cellpadding='3' cellspacing='10' width='200' height='200'>
+<table border='10px' cellpadding='3' cellspacing='10' width='200' height='150'>
    <tr>
      <th>el barrio</th>
      <th>su aspecto</th>
