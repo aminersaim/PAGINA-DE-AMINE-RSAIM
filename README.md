@@ -3,7 +3,7 @@
 
 <p style='color:green;'>1)Que es CASABLANCA?</p>
 <p>CASABLANCA es una cuidad muy bonita, turistica, bien cominucada,limpia ,muy grande  y sin embrago es una poco ruidosa porque es muy poblada lleva mucha gente.</p>
-<p style='color:green;'>2)te dejo aqui un enlace 'youtube' para ver la cuidad</p>
+<p style='color:green;'>2)te dejo aqui un enlace 'youtube' para ver la cuidad:</p>
 <a href='https://youtu.be/jzdY46nM_2Q?si=Tempi7Fv87YLnjZo'>clik para ver el video</a>
 <p style='color:green;'>3)unos fotos para casablanca:</p>
 <img src='https://sl.bing.net/1VkNUQznqu' alt='casa' width='300' height='300'>
