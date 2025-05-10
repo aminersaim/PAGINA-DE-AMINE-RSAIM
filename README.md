@@ -12,6 +12,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Casablanca_City_Skyline.jpg/800px-Casablanca_City_Skyline.jpg" alt="Casablanca Skyline" width="300" height="200">
 
 
+
 <p style='color:green;'>3)algunos barrios mas famosos en Casablanca que puede visitar:</p>
 <ol start='1'>
   <li>MAARIF</li>
