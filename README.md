@@ -10,7 +10,7 @@
 <img src='C:\Users\amine\Downloads\casablanca.jpg ' alt='casa' width='300 ' height='300 '>
 <img src='C:\Users\amine\Downloads\casa city 2.jpeg' alt='casa' width='300' height='300'>
 
-<p style='color:green;'>3)algunos barrios mas famosos en Casablnca que puede visitar:</p>
+<p style='color:green;'>3)algunos barrios mas famosos en Casablanca que puede visitar:</p>
 <ol start='1'>
   <li>MAARIF</li>
   <li>SIDI MOUMEN</li>
@@ -25,7 +25,7 @@ nombre=prompt('escribe tu nombre ',' ');
 alert('bienvenido en la pagina de amine');
 </script>
 <p style='color:green;'>4)esta tabla te define cada barrio como es :</p>
- <table border='10px' cellpadding='3' cellspacing='10' width='200' height='300'>
+<table border='10px' cellpadding='3' cellspacing='10' width='200' height='200'>
    <tr>
      <th>el barrio</th>
      <th>su aspecto</th>
@@ -42,7 +42,7 @@ alert('bienvenido en la pagina de amine');
       <td>SOUK L9RE3A</td>
       <td>es el grande rastro de marruecos donde se vende te todo(ropa,mobiles,animales...)
    <tr>   
-  </table>	
+</table>	
 <p style='color:green;'>5) Cual es el barrio que te gustaria visitarla?</p>
 <select>
 <option value='Elige'>Elige</option>	
