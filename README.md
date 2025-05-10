@@ -1,1 +1,55 @@
-# PAGINA-DE-AMINE-RSAIM
+<title>PAGINA DE AMINE
+</title>
+
+<p style='color:green;'>1)Que es CASABLANCA?</P></br></br><p>CASABLANCA es una cuidad muy bonita, turistica, bien cominucada,limpia ,muy grande  y sin embrago es una poco ruidosa porque es muy poblada lleva mucha gente.</P>
+<p style='color:green;'>2)te dejo aqui un enlace 'youtube' para ver la cuidad</p>
+<a href='https://youtu.be/jzdY46nM_2Q?si=Tempi7Fv87YLnjZo'>clik para ver el video</a>
+<p style='color:green;'>3)unos fotos para casablanca:</p>
+<img src='C:\Users\amine\Pictures\Saved Pictures\casa city.jpeg' alt='casa' width='300' height='300'>
+<img src='C:\Users\amine\Downloads\casablanca.jpg ' alt='casa' width='300 ' height='300 '>
+<img src='C:\Users\amine\Downloads\casa city 2.jpeg' alt='casa' width='300' height='300'>
+
+<p style='color:green;'>3)algunos barrios mas famosos en Casablnca que puede visitar:</p>
+<ol start='1'>
+  <li>MAARIF</li>
+  <li>SIDI MOUMEN</li>
+  <li>SOUK L9RE3A</li>
+</ol> 
+<script>
+var nombre ;
+nombre=prompt('escribe tu nombre ',' ');
+</script>
+<script>
+
+alert('bienvenido en la pagina de amine');
+</script>
+<p style='color:green;'>4)esta tabla te define cada barrio como es :</p>
+<table border='10px' cellpadding='3' cellspacing='10rh width='200' height='100'>
+   <tr>
+     <th>el barrio</th>
+	 <th>su aspecto</th>
+   </tr> 
+   <tr>
+      <td>MAARIF</td>
+	  <td>es un barrio muy moderno y limpio</td>
+   </tr>
+   <tr>
+      <td>SIDI MOUMEN</td>
+	  <td>es un barrio tradicional y un poco ruidoso</td>
+	</tr>
+	<tr>
+	   <td>SOUK L9RE3A</td>
+	   <td>es el grande rastro de marruecos donde se vende te todo(ropa,mobiles,animales...)
+	<tr>   
+</table>	
+<p style='color:green;'>5) Cual es el barrio que te gustaria visitarla?</p>
+<select>
+<option value='Elige'>Elige</option>	
+<option value='MAARIF'>MAARIF</option>
+<option value='SIDI MOUMEN'>SIDI MOUMEN</option>
+<option value='SOUK L9RE3A'>SOUK L9RE3A</option>
+</select>
+
+
+
+ 
